@@ -1,5 +1,5 @@
 /*!
- * Flat UI's Gruntfile
+ * Flat UI's Gruntfile edited
  * http://designmodo.com/flat-free/
  * Copyright 2013-2014 Designmodo, Inc.
  */
